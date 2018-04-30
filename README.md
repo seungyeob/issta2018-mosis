@@ -32,8 +32,8 @@
     NX vs. RX  
     NR vs. NX
 * ./experiments/time_limits  
-  Values of the crt function and the length of test suites obtained by NR, RR, NX, and RX algorithms for the time limits (8h, 16h, and 24h).
+  Values of the crt function and the length of test suites obtained by NR, RR, NX, and RX algorithms for the time limits  
+  (8h, 16h, and 24h).
 * ./experiments/size_limits  
-  Values of the risk function of the test suites obtained by NR, RR, NX, and RX algorithms for the size limits (50, 100, and 150).
- 
-
+  Values of the risk function of the test suites obtained by NR, RR, NX, and RX algorithms for the size limits  
+  (50, 100, and 150).
